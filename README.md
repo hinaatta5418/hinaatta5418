@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hina Khan Bangash
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning Data Science
-  - 📫 How to reach me heenaatta19@gmail.com
+- 📫 How to reach me heenaatta19@gmail.com
 - 😄 Pronouns: she/her
 
 

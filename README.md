@@ -1,3 +1,5 @@
+
+![logo](https://github.com/hinaatta5418/hinaatta5418/blob/main/Lets%20Connect%20!!.png)
 <h1 align="center">Hi 👋, I'm Hina Khan Bangash</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
